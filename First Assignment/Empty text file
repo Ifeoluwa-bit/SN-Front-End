@@ -1,0 +1,13 @@
+Task 1 (Creating a Github repository)
+(1) I logged in to my github account, at the upper right hand corner of the landing page i selected new repository, then i gave the new repository a name which is SN Front End, left the default settings untouched and i clicked on create repository.
+(2) The problem i encountered while doing this was that at first the "create repository" button was unclickable.
+(3) How i solved this was that i scanned through the landing page to check for errors, after which i discovered that i forgot to input my new repository name, then i did it and it was clickable and i was able to create my Github repository.
+
+Task 2 (Creating a folder inside the repository)
+(1) I created a folder inside the repository by clicking on "create a new file" then i typed in my folder name in the space where "Name your file" was written and at the end of my file name i added a "/" to make the file a folder.
+(2) The problem i encountered while doing this was that i find it difficult creating a folder at first.
+(3) Solutions found while solving this task is by creating a new file, name the file and add a "/" at the end of the file name (Reference: Google)
+
+Task 3 (Pushing an empty file to the repository)
+(1) I pushed an empty file into the repository by clicking on "create a new file"
+(2) No problem was encountered while doing this
